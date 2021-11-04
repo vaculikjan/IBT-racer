@@ -1,0 +1,78 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 5499798,
+                "file_path": "results\\RacerCont8\\Car\\Car-5499798.onnx",
+                "reward": 39.86609750986099,
+                "creation_time": 1616080819.23882
+            },
+            {
+                "steps": 5999908,
+                "file_path": "results\\RacerCont8\\Car\\Car-5999908.onnx",
+                "reward": null,
+                "creation_time": 1616082977.2563505
+            },
+            {
+                "steps": 6499846,
+                "file_path": "results\\RacerCont8\\Car\\Car-6499846.onnx",
+                "reward": 39.87769728899002,
+                "creation_time": 1616085490.2647004
+            },
+            {
+                "steps": 6999870,
+                "file_path": "results\\RacerCont8\\Car\\Car-6999870.onnx",
+                "reward": null,
+                "creation_time": 1616088003.0935743
+            },
+            {
+                "steps": 7499977,
+                "file_path": "results\\RacerCont8\\Car\\Car-7499977.onnx",
+                "reward": null,
+                "creation_time": 1616090177.3900185
+            },
+            {
+                "steps": 7999749,
+                "file_path": "results\\RacerCont8\\Car\\Car-7999749.onnx",
+                "reward": 39.87849697470665,
+                "creation_time": 1616092194.883978
+            },
+            {
+                "steps": 8499814,
+                "file_path": "results\\RacerCont8\\Car\\Car-8499814.onnx",
+                "reward": null,
+                "creation_time": 1616094679.3728862
+            },
+            {
+                "steps": 8999920,
+                "file_path": "results\\RacerCont8\\Car\\Car-8999920.onnx",
+                "reward": null,
+                "creation_time": 1616096952.3692322
+            },
+            {
+                "steps": 9499880,
+                "file_path": "results\\RacerCont8\\Car\\Car-9499880.onnx",
+                "reward": 39.88089734315872,
+                "creation_time": 1616098993.8100786
+            },
+            {
+                "steps": 9733088,
+                "file_path": "results\\RacerCont8\\Car\\Car-9733088.onnx",
+                "reward": null,
+                "creation_time": 1616099916.1085093
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9733088,
+            "file_path": "results\\RacerCont8\\Car.onnx",
+            "reward": null,
+            "creation_time": 1616099916.1085093
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

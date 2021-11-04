@@ -1,0 +1,24 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 3589,
+                "file_path": "results\\RacerCont5\\Car\\Car-3589.onnx",
+                "reward": -1.0282500125467777,
+                "creation_time": 1615998437.3558993
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3589,
+            "file_path": "results\\RacerCont5\\Car.onnx",
+            "reward": -1.0282500125467777,
+            "creation_time": 1615998437.3558993
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

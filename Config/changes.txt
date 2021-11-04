@@ -1,0 +1,2 @@
+Racer5 - zakázáno couvání
+Racer6 - odděláno curiosity, oddělána negativní odměna ve FixedUpdate

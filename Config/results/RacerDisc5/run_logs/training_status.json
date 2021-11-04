@@ -1,0 +1,54 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 499828,
+                "file_path": "results\\RacerDisc5\\Car\\Car-499828.onnx",
+                "reward": -1.6347998604178429,
+                "creation_time": 1615633461.886923
+            },
+            {
+                "steps": 999798,
+                "file_path": "results\\RacerDisc5\\Car\\Car-999798.onnx",
+                "reward": null,
+                "creation_time": 1615636132.7171028
+            },
+            {
+                "steps": 1499814,
+                "file_path": "results\\RacerDisc5\\Car\\Car-1499814.onnx",
+                "reward": 1.846599817276001,
+                "creation_time": 1615639409.2663403
+            },
+            {
+                "steps": 1999921,
+                "file_path": "results\\RacerDisc5\\Car\\Car-1999921.onnx",
+                "reward": 5.946199715137482,
+                "creation_time": 1615642408.9410942
+            },
+            {
+                "steps": 2499798,
+                "file_path": "results\\RacerDisc5\\Car\\Car-2499798.onnx",
+                "reward": 5.948099464178085,
+                "creation_time": 1615645684.3150232
+            },
+            {
+                "steps": 2790566,
+                "file_path": "results\\RacerDisc5\\Car\\Car-2790566.onnx",
+                "reward": 5.947699636220932,
+                "creation_time": 1615647576.5497794
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2790566,
+            "file_path": "results\\RacerDisc5\\Car.onnx",
+            "reward": 5.947699636220932,
+            "creation_time": 1615647576.5497794
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

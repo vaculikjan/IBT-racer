@@ -1,0 +1,30 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 499969,
+                "file_path": "results\\Racer2\\Car\\Car-499969.onnx",
+                "reward": -1.7935999799519777,
+                "creation_time": 1615376493.0890176
+            },
+            {
+                "steps": 500033,
+                "file_path": "results\\Racer2\\Car\\Car-500033.onnx",
+                "reward": -1.7935999799519777,
+                "creation_time": 1615376493.133909
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500033,
+            "file_path": "results\\Racer2\\Car.onnx",
+            "reward": -1.7935999799519777,
+            "creation_time": 1615376493.133909
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

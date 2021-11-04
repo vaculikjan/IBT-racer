@@ -1,0 +1,66 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 499875,
+                "file_path": "results\\Racer6\\Car\\Car-499875.onnx",
+                "reward": null,
+                "creation_time": 1615466254.8287315
+            },
+            {
+                "steps": 999956,
+                "file_path": "results\\Racer6\\Car\\Car-999956.onnx",
+                "reward": null,
+                "creation_time": 1615468180.851714
+            },
+            {
+                "steps": 1499800,
+                "file_path": "results\\Racer6\\Car\\Car-1499800.onnx",
+                "reward": null,
+                "creation_time": 1615470089.9012997
+            },
+            {
+                "steps": 1999761,
+                "file_path": "results\\Racer6\\Car\\Car-1999761.onnx",
+                "reward": null,
+                "creation_time": 1615471990.9256659
+            },
+            {
+                "steps": 2499779,
+                "file_path": "results\\Racer6\\Car\\Car-2499779.onnx",
+                "reward": null,
+                "creation_time": 1615473893.0980473
+            },
+            {
+                "steps": 2999951,
+                "file_path": "results\\Racer6\\Car\\Car-2999951.onnx",
+                "reward": null,
+                "creation_time": 1615475795.081912
+            },
+            {
+                "steps": 3499770,
+                "file_path": "results\\Racer6\\Car\\Car-3499770.onnx",
+                "reward": null,
+                "creation_time": 1615477694.5974376
+            },
+            {
+                "steps": 3552506,
+                "file_path": "results\\Racer6\\Car\\Car-3552506.onnx",
+                "reward": null,
+                "creation_time": 1615477898.0774384
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3552506,
+            "file_path": "results\\Racer6\\Car.onnx",
+            "reward": null,
+            "creation_time": 1615477898.0774384
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
